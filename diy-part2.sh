@@ -30,3 +30,4 @@ git clone https://github.com/project-lede/luci-app-godproxy
 git clone https://github.com/ntlf9t/luci-app-dnspod
 git clone https://github.com/apollo-ng/luci-theme-darkmatter  
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
+git clone https://github.com/GHLiuyb/luci-app-ssr-plus
