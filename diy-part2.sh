@@ -15,9 +15,6 @@
 cd package
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
 git clone https://github.com/immortalwrt/luci-app-unblockneteasemusic.git
-cd lean
-rm -rf luci-theme-argon  
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
 git clone https://github.com/jefferymvp/luci-app-koolproxyR
 git clone https://github.com/destan19/OpenAppFilter
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus
@@ -31,3 +28,7 @@ git clone https://github.com/ntlf9t/luci-app-dnspod
 git clone https://github.com/apollo-ng/luci-theme-darkmatter  
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
 git clone https://github.com/GHLiuyb/luci-app-ssr-plus
+cd lean
+rm -rf luci-theme-argon  
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
+
