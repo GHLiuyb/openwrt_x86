@@ -4,3 +4,9 @@ src-git routing https://git.openwrt.org/feed/routing.git
 src-git small https://github.com/kenzok8/small.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+src-git openwrt_luci https://mirrors.cloud.tencent.com/lede/releases/18.06.9/packages/x86_64/luci
+src-git openwrt_nas https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/nas
+src-git openwrt_nas_luci https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/nas_luci
+src-git openwrt_packages https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/packages
+src-git openwrt_routing https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/routing
+src-git openwrt_telephony https://mirrors.cloud.tencent.com/lede/snapshots/packages/x86_64/telephony
